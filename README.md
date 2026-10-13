@@ -10,23 +10,18 @@ The application displays Available Items and Selected Items in separate panels. 
 
 ![Available and selected items](./src/images/drag1.png)
 
-### Moving items between lists
-
-Select items with their checkboxes, then use the arrow controls between the panels to move them to the other list.
-
-![Items moved between lists](./src/images/drag2.png)
 
 ### Add a new item
 
 Use **Add New Item** to open the dialog, enter an item name, and add it to the available list.
 
-![Add new item dialog](./src/images/drag3.png)
+![Add new item dialog](./src/images/drag2.png)
 
 ### Edit an item
 
 Use the edit control beside an item to update its name.
 
-![Edit item dialog](./src/images/drag4.png)
+![Edit item dialog](./src/images/drag3.png)
 
 ### Item actions
 
@@ -38,7 +33,7 @@ Items include controls for editing and deleting them.
 
 Checkboxes allow multiple items to be selected before moving them together.
 
-![Multiple item selection](./src/images/drag6.png)
+![Multiple item selection](./src/images/drag5.png)
 
 ## Features
 
